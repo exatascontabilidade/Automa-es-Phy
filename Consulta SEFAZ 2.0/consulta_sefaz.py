@@ -74,9 +74,9 @@ try:
     except:
         raise Exception("Campos de login não localizados!")
     usuario.click()
-    usuario.send_keys("SE007829")
+    usuario.send_keys("---")
     senha.click()
-    senha.send_keys("Exatas2024@")
+    senha.send_keys("---")
     botao_login.click()
     print("🎉 Login realizado com sucesso!")
 except Exception as e:
