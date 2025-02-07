@@ -113,10 +113,10 @@ try:
 
     # 6️⃣ **Clica e preenche os campos**
     usuario.click()
-    usuario.send_keys("SE007829")
+    usuario.send_keys("---")
 
     senha.click()
-    senha.send_keys("Exatas2024@")
+    senha.send_keys("---")
 
     # 7️⃣ **Clica no botão "OK" para fazer login**
     botao_login.click()
