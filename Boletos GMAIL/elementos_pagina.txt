@@ -1,0 +1,451 @@
+📄 Listagem de elementos da página:
+🏷️ Tag: html | 🆔 ID:  | 📌 Classe: fontawesome-i2svg-active fontawesome-i2svg-complete | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+EXATAS CONTABILIDAD
+🏷️ Tag: head | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: title | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: meta | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID: fa-main | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID: fa-v4-shims | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: link | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: style | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID: hotjar-script | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: script | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: body | 🆔 ID:  | 📌 Classe:  | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+EXATAS CONTABILIDAD
+🏷️ Tag: conpass | 🆔 ID: conpass-tag | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: noscript | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID: root | 📌 Classe:  | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+EXATAS CONTABILIDAD
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: Toastify | 📝 Texto: 
+🏷️ Tag: header | 🆔 ID:  | 📌 Classe: MuiPaper-root MuiPaper-elevation MuiPaper-elevation0 MuiAppBar-root MuiAppBar-colorInherit MuiAppBar-positionFixed jss6 mui-fixed css-jbtyv0 | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular jss4 css-1ss4cyx | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiContainer-root MuiContainer-maxWidthLg jss5 css-1qsxih2 | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container css-1b1jvye | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+ENTRAR
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: jss23 | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: jss9 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container jss28 css-bxtot6 | 📝 Texto: Painel
+Pedidos
+Histórico Financeiro
+Consulta de CNPJ/CPF
+Para seu negócio
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Painel
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss25  css-d6c7sz | 📝 Texto: Painel
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Pedidos
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss25  css-d6c7sz | 📝 Texto: Pedidos
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Histórico Financeiro
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss25  css-d6c7sz | 📝 Texto: Histórico Financeiro
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Consulta de CNPJ/CPF
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss25 jss26 css-d6c7sz | 📝 Texto: Consulta de CNPJ/CPF
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: Para seu negócio
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss25  css-d6c7sz | 📝 Texto: Para seu negócio
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true css-kxu0dz | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: ENTRAR
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-75iq73 | 📝 Texto: ENTRAR
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary jss29 css-fnqg9q | 📝 Texto: ENTRAR
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: main | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container jss7 css-ialc12 | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/000
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiContainer-root MuiContainer-maxWidthLg jss8 css-19s0nbh | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/000
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiBox-root css-74zks3 | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-1edik8a | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/000
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-spacing-xs-2 MuiGrid-grid-md-5 MuiGrid-grid-lg-4 css-1bvt7kt | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/000
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 css-iz8lpy | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container css-d5ww2a | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiBox-root css-xo8ipu | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: MuiCardMedia-root jss108 MuiCardMedia-media MuiCardMedia-img css-rhsghg | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiAvatar-root jss109 MuiAvatar-circular css-8icg04 | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: MuiAvatar-img jss110 css-1hy9t21 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: EXATAS CONTABILIDADE
+27.939.154/0001-08
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: jss111 | 📝 Texto: EXATAS CONTABILIDADE
+🏷️ Tag: h2 | 🆔 ID:  | 📌 Classe: jss112 | 📝 Texto: 27.939.154/0001-08
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12 MuiGrid-grid-xl-12 css-p4mq8i | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item css-15cstb7 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-envelope-open fa-2x jss130 jss54 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item css-15cstb7 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-map-location-dot fa-2x jss131 jss54 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 css-18mhetb | 📝 Texto: Destinatário
+Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 css-11h9ze7 | 📝 Texto: Destinatário
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 css-7vy65v | 📝 Texto: Destinatário
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-b4cddo | 📝 Texto: Destinatário
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 css-8e4lkk | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiAvatar-root MuiAvatar-circular css-1yk9n6c | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: MuiAvatar-img css-1hy9t21 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 css-1th5n54 | 📝 Texto: Nome:SPEED TELECOM LTDA
+CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-spacing-xs-1 css-1tvnz2s | 📝 Texto: Nome:SPEED TELECOM LTDA
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: Nome:SPEED TELECOM LTDA
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: Nome:SPEED TELECOM LTDA
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-noWrap css-1bj08q7 | 📝 Texto: Nome:
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-noWrap css-zq5cyk | 📝 Texto: SPEED TELECOM LTDA
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-spacing-xs-1 css-gg4i5s | 📝 Texto: CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: CPF/CNPJ:16.806.229/0001-58
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-noWrap css-1bj08q7 | 📝 Texto: CPF/CNPJ:
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-noWrap css-zq5cyk | 📝 Texto: 16.806.229/0001-58
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 css-18nba4l | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-17bkclt | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-tvjj0c | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-file-pdf fa-1x jss115 jss54 | 📝 Texto: 
+🏷️ Tag: g | 🆔 ID:  | 📌 Classe: fa-duotone-group | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: fa-secondary | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: fa-primary | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-true css-1dbi0z1 | 📝 Texto: Recibo de Honorários Contábeis
+recibo_de_honorarios_contabeis_0000005344.pdf
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 MuiTypography-noWrap css-hrl9cy | 📝 Texto: Recibo de Honorários Contábeis
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-noWrap css-1al49lj | 📝 Texto: recibo_de_honorarios_contabeis_0000005344.pdf
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-auto css-jl54nu | 📝 Texto: 20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: 20 KB
+🏷️ Tag: small | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 20 KB
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: 
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-1t8acrl | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-download fa-xs jss116 jss54 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-spacing-xs-2 MuiGrid-grid-md-7 MuiGrid-grid-lg-8 css-galt27 | 📝 Texto: Número
+0000005344
+Data de Emissão
+30/01/2025
+Valor da Nota
+R$ 3.154,09
+Parcela (1)
+Parcela Situação 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-spacing-xs-2 MuiGrid-grid-xs-12 css-1k82yfd | 📝 Texto: Número
+0000005344
+Data de Emissão
+30/01/2025
+Valor da Nota
+R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-md-4 css-1y73h4u | 📝 Texto: Número
+0000005344
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 jss96 css-18mhetb | 📝 Texto: Número
+0000005344
+🏷️ Tag: h1 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h1 MuiTypography-noWrap jss103 css-v5aa0f | 📝 Texto: Número
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: MuiSvgIcon-root MuiSvgIcon-fontSizeMedium jss104 css-vubbuv | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: h2 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h2 MuiTypography-noWrap jss105 css-suu3r6 | 📝 Texto: 0000005344
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-md-4 css-1y73h4u | 📝 Texto: Data de Emissão
+30/01/2025
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 jss96 css-18mhetb | 📝 Texto: Data de Emissão
+30/01/2025
+🏷️ Tag: h1 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h1 MuiTypography-noWrap jss103 css-v5aa0f | 📝 Texto: Data de Emissão
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: MuiSvgIcon-root MuiSvgIcon-fontSizeMedium jss104 css-vubbuv | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: h2 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h2 MuiTypography-noWrap jss105 css-suu3r6 | 📝 Texto: 30/01/2025
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-md-4 css-1y73h4u | 📝 Texto: Valor da Nota
+R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss95 jss96 css-18mhetb | 📝 Texto: Valor da Nota
+R$ 3.154,09
+🏷️ Tag: h1 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h1 MuiTypography-noWrap jss103 css-v5aa0f | 📝 Texto: Valor da Nota
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: MuiSvgIcon-root MuiSvgIcon-fontSizeMedium jss104 css-vubbuv | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: h2 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h2 MuiTypography-noWrap jss105 css-suu3r6 | 📝 Texto: R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: Parcela (1)
+Parcela Situação Valor
+1/1 Pago R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation3 MuiCard-root css-i2kv4j | 📝 Texto: Parcela (1)
+Parcela Situação Valor
+1/1 Pago R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardHeader-root css-1almq86 | 📝 Texto: Parcela (1)
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardHeader-content css-11qjisw | 📝 Texto: Parcela (1)
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h5 MuiCardHeader-title css-mp48o9 | 📝 Texto: Parcela (1)
+🏷️ Tag: hr | 🆔 ID:  | 📌 Classe: MuiDivider-root MuiDivider-fullWidth css-15940wd | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiCardContent-root jss117 css-18mhetb | 📝 Texto: Parcela Situação Valor
+1/1 Pago R$ 3.154,09
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 MuiTableContainer-root css-ayxeot | 📝 Texto: Parcela Situação Valor
+1/1 Pago R$ 3.154,09
+🏷️ Tag: table | 🆔 ID:  | 📌 Classe: MuiTable-root css-plw2lq | 📝 Texto: Parcela Situação Valor
+1/1 Pago R$ 3.154,09
+🏷️ Tag: thead | 🆔 ID:  | 📌 Classe: MuiTableHead-root css-1wbz3t9 | 📝 Texto: Parcela Situação Valor
+🏷️ Tag: tr | 🆔 ID:  | 📌 Classe: MuiTableRow-root MuiTableRow-head css-12od99o | 📝 Texto: Parcela Situação Valor
+🏷️ Tag: th | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ejmpts | 📝 Texto: Parcela
+🏷️ Tag: th | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ejmpts | 📝 Texto: Situação
+🏷️ Tag: th | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ejmpts | 📝 Texto: Valor
+🏷️ Tag: th | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-sizeMedium css-1ejmpts | 📝 Texto: 
+🏷️ Tag: tbody | 🆔 ID:  | 📌 Classe: MuiTableBody-root css-1xnox0e | 📝 Texto: 1/1 Pago R$ 3.154,09
+🏷️ Tag: tr | 🆔 ID:  | 📌 Classe: MuiTableRow-root css-qijghn | 📝 Texto: 1/1 Pago R$ 3.154,09
+🏷️ Tag: td | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium css-62m7va | 📝 Texto: 1/1
+🏷️ Tag: td | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium css-62m7va | 📝 Texto: Pago
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiBox-root css-1ibkwjz | 📝 Texto: 
+🏷️ Tag: td | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium css-62m7va | 📝 Texto: R$ 3.154,09
+🏷️ Tag: td | 🆔 ID:  | 📌 Classe: MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-paddingNone MuiTableCell-sizeMedium css-k27ugu | 📝 Texto: 
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1j7qk7u | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeSmall css-1j7qk7u | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container css-fx6yw1 | 📝 Texto: Precisa de ajuda?Clique aqui.
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: Precisa de ajuda?Clique aqui.
+🏷️ Tag: h6 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-1vacocr | 📝 Texto: Precisa de ajuda?Clique aqui.
+🏷️ Tag: strong | 🆔 ID:  | 📌 Classe: jss10 | 📝 Texto: Clique aqui.
+🏷️ Tag: footer | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container jss7 css-1qici0f | 📝 Texto: powered by
+Sistema de gestão completo para seu negócio com emissão de boletos a R$ 1,99 e pix gratui
+🏷️ Tag: div | 🆔 ID: footer-container | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-auto jss34 css-1xgqmfs | 📝 Texto: powered by
+Sistema de gestão completo para seu negócio com emissão de boletos a R$ 1,99 e pix gratui
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-auto MuiGrid-grid-sm-auto MuiGrid-grid-md-auto jss35 css-le712d | 📝 Texto: powered by
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: powered by
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption jss36 css-p0k8n2 | 📝 Texto: powered by
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto css-19g2724 | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: jss37 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-sm-true MuiGrid-grid-md-auto css-1csucam | 📝 Texto: Sistema de gestão completo para seu negócio com emissão de boletos a R$ 1,99 e pix gratuitos - conhe
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-caption MuiTypography-alignCenter css-11if762 | 📝 Texto: Sistema de gestão completo para seu negócio com emissão de boletos a R$ 1,99 e pix gratuitos - conhe
+🏷️ Tag: strong | 🆔 ID:  | 📌 Classe: jss38 | 📝 Texto: aqui
+🏷️ Tag: script | 🆔 ID: recaptcha-script | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiDrawer-root MuiDrawer-modal MuiModal-root MuiModal-hidden css-12snods | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiBackdrop-root MuiModal-backdrop css-919eu4 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper jss30 MuiDrawer-paperAnchorLeft css-18ichdp | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column css-1exj3yd | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item css-1ul47bz | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiBox-root css-jgq7b5 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: jss31 | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: jss9 | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item css-17ihkcp | 📝 Texto: 
+🏷️ Tag: h6 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-subtitle2 jss41 css-10dogdb | 📝 Texto: 
+🏷️ Tag: h6 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-subtitle2 jss41 css-10dogdb | 📝 Texto: 
+🏷️ Tag: h6 | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-subtitle2 jss42 css-10dogdb | 📝 Texto: 
+🏷️ Tag: hr | 🆔 ID:  | 📌 Classe: MuiDivider-root MuiDivider-fullWidth css-15940wd | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item css-ltgc5i | 📝 Texto: 
+🏷️ Tag: ul | 🆔 ID:  | 📌 Classe: MuiList-root MuiList-padding css-1ontqvh | 📝 Texto: 
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters jss51 css-1x67t07 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemIcon-root jss50 css-1d5cimb | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-building fa-1x fa-fw jss54 jss77 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemText-root css-1tsvksn | 📝 Texto: 
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-1pivl8i | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters jss51 css-1x67t07 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemIcon-root jss50 css-1d5cimb | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-list fa-1x fa-fw jss54 jss78 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemText-root css-1tsvksn | 📝 Texto: 
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-1pivl8i | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters jss51 css-1x67t07 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemIcon-root jss50 css-1d5cimb | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-receipt fa-1x fa-fw jss54 jss79 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemText-root css-1tsvksn | 📝 Texto: 
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-1pivl8i | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters jss51 css-1x67t07 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemIcon-root jss50 css-1d5cimb | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-search fa-1x fa-fw jss54 jss80 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemText-root css-1tsvksn | 📝 Texto: 
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-1pivl8i | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: a | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiListItemButton-root MuiListItemButton-gutters MuiListItemButton-root MuiListItemButton-gutters jss51 css-1x67t07 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemIcon-root jss50 css-1d5cimb | 📝 Texto: 
+🏷️ Tag: i | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: svg | 🆔 ID:  | 📌 Classe: svg-inline--fa fa-briefcase fa-1x fa-fw jss54 jss59 | 📝 Texto: 
+🏷️ Tag: path | 🆔 ID:  | 📌 Classe: None | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiListItemText-root css-1tsvksn | 📝 Texto: 
+🏷️ Tag: p | 🆔 ID:  | 📌 Classe: MuiTypography-root MuiTypography-body1 css-1pivl8i | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: hr | 🆔 ID:  | 📌 Classe: MuiDivider-root MuiDivider-fullWidth jss46 css-15940wd | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: hr | 🆔 ID:  | 📌 Classe: MuiDivider-root MuiDivider-fullWidth css-15940wd | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-container MuiGrid-item css-1n0o6x5 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-15j76c0 | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth jss60 css-vb7zz5 | 📝 Texto: 
+🏷️ Tag: img | 🆔 ID:  | 📌 Classe: jss62 | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 css-10vnaez | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: button | 🆔 ID:  | 📌 Classe: MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-disableElevation MuiButton-fullWidth jss61 css-1yqwj4t | 📝 Texto: 
+🏷️ Tag: span | 🆔 ID:  | 📌 Classe: MuiTouchRipple-root css-w0pj6f | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: grecaptcha-badge | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: grecaptcha-logo | 📝 Texto: 
+🏷️ Tag: iframe | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: div | 🆔 ID:  | 📌 Classe: grecaptcha-error | 📝 Texto: 
+🏷️ Tag: textarea | 🆔 ID: g-recaptcha-response-100000 | 📌 Classe: g-recaptcha-response | 📝 Texto: 
+🏷️ Tag: iframe | 🆔 ID:  | 📌 Classe:  | 📝 Texto: 
+🏷️ Tag: iframe | 🆔 ID: _hjSafeContext_63788382 | 📌 Classe:  | 📝 Texto: 
